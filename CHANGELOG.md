@@ -20,9 +20,9 @@ N/A
 
 ## [1.5.1](https://github.com/tbaranes/AudioPlayerSwift/releases/tag/1.5.1) (30-11-2016)
 
-#### Bugfixes
+#### Fixed
 
-- Fixed handleFadeTo to avoid an infinite calls situation
+- Fixed handleFadeTo to avoid an infinite calls situation - [#11 ](https://github.com/tbaranes/AudioPlayerSwift/pull/11)
 
 ## [1.5.0](https://github.com/tbaranes/AudioPlayerSwift/releases/tag/1.5.0) (23-09-2016)
 
@@ -49,7 +49,6 @@ N/A
 ## [1.2.1](https://github.com/tbaranes/AudioPlayerSwift/releases/tag/1.2.1) (05-02-2016)
 
 - `completionHandler` is now a public property
-
 
 ## [1.2.0](https://github.com/tbaranes/SwiftyUtils/releases/tag/1.2.0) (02-02-2016)
 
